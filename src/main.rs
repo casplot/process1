@@ -24,8 +24,6 @@ fn main() {
     let my_s = String::from("hello world");
     let word_index = first_word(&my_s[..]);
 
-    let my_s_literal = "hello world";
-    let word_index = first_word(&my_s_literal);
 
 
 
